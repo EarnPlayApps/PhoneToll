@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             "https://phonetoll.earnplayapps.workers.dev/";
 
     private static final String BANNER_AD_UNIT =
-            "ca-app-pub-1349855536683235/9698485448";
+            "ca-app-pub-1349855536683235/4188806760";
 
     private WebView webView;
     private AdView adView;
